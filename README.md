@@ -9,3 +9,8 @@
 - 📫 Connect with me on [LinkedIn](https://linkedin.com/in/disshitarishi/)
 
 > "Code. Learn. Improve. Repeat." 💡
+>
+> ## 🧠 LeetCode Stats
+
+![LeetCode Badge](https://leetcard.rapyz.dev/disshitaaaa)
+
