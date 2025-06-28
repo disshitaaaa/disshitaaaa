@@ -10,7 +10,5 @@
 
 > "Code. Learn. Improve. Repeat." 💡
 >
-> ## 🧠 LeetCode Stats
-
-![LeetCode Badge](https://leetcard.rapyz.dev/disshitaaaa)
+> 🔗 [View My LeetCode Profile](https://leetcode.com/disshitaaaa/)
 
